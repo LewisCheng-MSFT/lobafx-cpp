@@ -1,0 +1,8 @@
+{
+  "lobafx" : {
+    "library" : "lobafx",
+    "dependencies" : {
+      "openflow-manager" : "0"
+    }
+  }
+}
